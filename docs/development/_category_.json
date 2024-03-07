@@ -1,0 +1,8 @@
+{
+    "label": "Development",
+    "position": 4,
+    "link": {
+      "type": "generated-index",
+      "description": "Documentation for the development of the project, those who want to contribute to the project, nor those who want to install the development environment."
+    }
+}

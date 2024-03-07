@@ -41,6 +41,7 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
+          routeBasePath: '/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -82,7 +83,7 @@ const config = {
             items: [
               {
                 label: 'Docs',
-                to: '/docs/intro',
+                to: '/docs/Introduction',
               },
             ],
           },
@@ -94,6 +95,10 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
+    markdown: {
+      mermaid: true,
+    },
+    themes: ['@docusaurus/theme-mermaid'],
 };
 
 export default config;
