@@ -4,10 +4,8 @@ sidebar_position: 1
 slug: /
 ---
 
-# outer.chat 🚀
-
 <p align="center">
-  <a target="blank"><img src="https://raw.githubusercontent.com/outer-chat/outer-chat/main/.readme/outerchat.png" width="500" alt="Outer-Chat logo" /></a>
+  <a target="blank"><img src="https://raw.githubusercontent.com/outer-chat/.github/main/.readme/social-card.png" alt="Outer-Chat logo" /></a>
 </p>
 
 <p align="center">
