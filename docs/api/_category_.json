@@ -1,0 +1,8 @@
+{
+    "label": "Documentation API",
+    "position": 3,
+    "link": {
+      "type": "generated-index",
+      "description": "API Reference, coarsely generated from source code comments (swagger doc).\n Note that if you want a more reliable and detailed API reference, you should refer to the documentation generated on /api on the running instance of the application."
+    }
+}
