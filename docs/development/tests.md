@@ -10,6 +10,9 @@ npm install
 npm run test:e2e
 ```
 
+You can even run some coverage reports using `npm run test:e2e:cov`.
+
 :::note
-At the moment, there is only e2e tests. They should cover the major part of the application.
+More tests will be added in the future.  
+Objective 100% coverage 😎
 :::
